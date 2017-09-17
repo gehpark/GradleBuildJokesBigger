@@ -7,7 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
 /**
- * Created by gracepark on 9/16/17.
+ * Activity to display joke.
  */
 
 public class MainAndroidActivity extends AppCompatActivity {
