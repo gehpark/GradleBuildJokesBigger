@@ -1,7 +1,7 @@
 import android.support.test.runner.AndroidJUnit4;
 
 import com.udacity.gradle.builditbigger.EndpointAsyncTask;
-import com.udacity.gradle.builditbigger.MainActivity;
+import com.udacity.gradle.builditbigger.free.MainActivity;
 
 import org.junit.Assert;
 import org.junit.Test;

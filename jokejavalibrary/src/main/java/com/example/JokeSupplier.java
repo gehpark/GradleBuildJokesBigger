@@ -6,6 +6,6 @@ package com.example;
 
 public class JokeSupplier {
     public static String getJoke() {
-        return "knock knock";
+        return "When did the guy go to the dentist? \n \n \n \n \n at tooth hurty";
     }
 }
